@@ -1,0 +1,13 @@
+{
+    "name": "ReCaptcha",
+    "description": "Protect forms by using the Google reCaptcha API",
+    "version": "8.0",
+    "api": "^8.0",
+    "url": "http://jdanek.eu/",
+    "class": "ReCaptchaPlugin",
+    "autoload": {
+      "psr-4": {
+          "ReCaptcha\\": "vendor/src/ReCaptcha"
+        }
+    }
+}
