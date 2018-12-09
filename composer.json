@@ -1,0 +1,10 @@
+{
+    "name": "jdanek/recaptcha",
+    "type": "library",
+    "description": "Sunlight CMS 8.x plugin for protecting system forms from spam and abuse",
+    "homepage": "https://jdanek.eu",
+    "require": {
+        "php": ">=5.6.0",
+        "google/recaptcha": "~1.1"
+    }
+}
